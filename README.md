@@ -24,6 +24,9 @@ In this course I learn about how to write legible, bug-free code. I also learn a
         + reto4b.php -> reto4bsolved.php
         + reto4c.php -> reto4csolved.php
 
+4. (class_12) Open/Close Principle
+    - A short example of how the OC Principle works
+
 ## Conclusion
 
 We are not here yet!
