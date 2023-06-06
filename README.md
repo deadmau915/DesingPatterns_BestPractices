@@ -30,8 +30,15 @@ In this course I learn about how to write legible, bug-free code. I also learn a
         + violacion_oc.php -> oc_respetado.php
 
 5. (class_14) Interface Segregation Principle
-    - A shor example of how the ISP principle works
+    - A short example of how the ISP principle works
         + violacion_isp.php -> isp_respetado.php
+
+6. (class_15) Dependency Inversion Principle and SOLID Challenges
+    - A collection of buggy code challenges about SOLID Principles and their solution
+        + reto4a.php -> class_10/reto4asolved.php (SRP)
+        + reto4b.php -> reto4bsolved.php (OCP)
+        + reto4c.php -> reto4csolved.php (ISP)
+        + reto4d.php -> reto4dsolved.php (ISP)
 
 ## Conclusion
 
