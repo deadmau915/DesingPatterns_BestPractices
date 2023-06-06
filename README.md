@@ -17,6 +17,7 @@ In this course I learn about how to write legible, bug-free code. I also learn a
 
 2. (class_9) Harcoding
     - A few examples of how to avoid the Hardcoding practice
+        + hardcoding.php -> hardcoding_corregido.php
 
 3. (class_10) Challenges
     - A collection of buggy code challenges and their solution
@@ -26,6 +27,11 @@ In this course I learn about how to write legible, bug-free code. I also learn a
 
 4. (class_12) Open/Close Principle
     - A short example of how the OC Principle works
+        + violacion_oc.php -> oc_respetado.php
+
+5. (class_14) Interface Segregation Principle
+    - A shor example of how the ISP principle works
+        + violacion_isp.php -> isp_respetado.php
 
 ## Conclusion
 
