@@ -40,6 +40,9 @@ In this course I learn about how to write legible, bug-free code. I also learn a
         + reto4c.php -> reto4csolved.php (ISP)
         + reto4d.php -> reto4dsolved.php (ISP)
 
+7. (class_16) Design Patterns (Singleton)
+    - A short example of a Singleton pattern implementation on PHP
+
 ## Conclusion
 
 We are not here yet!
