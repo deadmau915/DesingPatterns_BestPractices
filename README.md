@@ -46,6 +46,10 @@ In this course I learn about how to write legible, bug-free code. I also learn a
 8. (class_17) Design Patterns (Factory)
     - A short example of a Factory pattern implementation on PHP
 
+8. (class_18) Design Patterns (Command)
+    - A short example of a Command pattern implementation on PHP
+
+
 ## Conclusion
 
 We are not here yet!
