@@ -43,6 +43,9 @@ In this course I learn about how to write legible, bug-free code. I also learn a
 7. (class_16) Design Patterns (Singleton)
     - A short example of a Singleton pattern implementation on PHP
 
+8. (class_17) Design Patterns (Factory)
+    - A short example of a Factory pattern implementation on PHP
+
 ## Conclusion
 
 We are not here yet!
