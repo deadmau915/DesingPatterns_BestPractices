@@ -49,7 +49,9 @@ In this course I learn about how to write legible, bug-free code. I also learn a
 8. (class_18) Design Patterns (Command)
     - A short example of a Command pattern implementation on PHP
 
+9. (class_20) Test-Driven development
+    - A shor example of how implement TDD
 
 ## Conclusion
 
-We are not here yet!
+In this course I learned a lot of things, I learned how to write bug-free code, how to avoid harcoding, how to implement the SOLID principles in my code and a few more things about Design Patterns, I understood the importance of write maintanable and readeable code. we never stop to learn!!
